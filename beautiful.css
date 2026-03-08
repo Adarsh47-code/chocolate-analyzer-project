@@ -1,0 +1,82 @@
+.main-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.input-area {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+}
+
+.input-area input {
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-left: 20px;
+    width: 30vw;
+    text-align: center;
+}
+
+.input-area label {
+    font-size: 1.5rem;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.start-button {
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    width: 300px;
+    border: none;
+    background-color: #676565;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    letter-spacing: 1.2;
+    color: white;
+}
+
+.start-button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: all 0.3s ease-in;
+}
+
+.loading-message {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.3rem;
+    margin-top: 50px;
+    font-weight: 600;
+}
+
+#roastBox {
+    height: auto;
+    width: 400px;
+    border: 2px solid red;
+    padding: 25px;
+    border-radius: 20px;
+    /* margin-right: 50px; */
+    margin-top: 100px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.redBox {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 480px) {
+    label {
+        margin-bottom: 15px;
+        display: block;
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "cadbury dairy milk": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "20%",
+        "flavor": "Sweet, Creamy",
+        "country_of_origin": "United Kingdom (UK)"
+    },
+    "amul 99% cacao": {
+        "brand": "Amul",
+        "cocoa_percentage": "99%",
+        "flavor": "Intense, tastes like brick, bitter AF",
+        "country_of_origin": "India"
+    },
+    "lindt excellence 70%": {
+        "brand": "Lindt",
+        "cocoa_percentage": "70%",
+        "flavor": "Rich, smooth, slight bitterness",
+        "country_of_origin": "Switzerland"
+    },
+    "kitkat": {
+        "brand": "Nestlé",
+        "cocoa_percentage": "30%",
+        "flavor": "Crispy, sweet",
+        "country_of_origin": "Switzerland"
+    },
+    "bournville 70%": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "70%",
+        "flavor": "Smooth, slight bitter",
+        "country_of_origin": "UK"
+    },
+    "hershey's milk chocolate": {
+        "brand": "Hershey's",
+        "cocoa_percentage": "20%",
+        "flavor": "Sweet, milky",
+        "country_of_origin": "USA"
+    },
+    "amul 55% dark chocolate": {
+        "brand": "Amul",
+        "cocoa_percentage": "55%",
+        "flavor": "bitter, entry gate in the world of dark chocolate, but not sweet",
+        "country_of_origin": "India"
+    },
+    "cadbury crispello": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "25%",
+        "flavor": "Light, crispy balls covered in Dairy Milk",
+        "country_of_origin": "India"
+    },
+    "cadbury 5 star": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "30%",
+        "flavor": "Chewy caramel, nougat, chocolate",
+        "country_of_origin": "India"
+    },
+    "cadbury gems": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "20%",
+        "flavor": "Sugar-coated chocolate buttons",
+        "country_of_origin": "India"
+    },
+    "cadbury silk": {
+        "brand": "Cadbury",
+        "cocoa_percentage": "25%",
+        "flavor": "Smooth, creamy, indulgent",
+        "country_of_origin": "India"
+    },
+    "amul 75% dark chocolate": {
+        "brand": "Amul",
+        "cocoa_percentage": "75%",
+        "flavor": "Earthy, slightly bitter finish that lingers, after taste is bit strong than 55%, and subtle sweetness",
+        "country_of_origin": "India"
+    },
+    "ferrero rocher": {
+        "brand": "Ferrero spA (the italian confectionery giant)",
+        "cocoa_percentage": "40%",
+        "flavor": "Nutty, creamy, sweet with hazelnut",
+        "country_of_origin": "Italy"
+    }
+}
